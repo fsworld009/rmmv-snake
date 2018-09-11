@@ -1,5 +1,5 @@
 # Snake
-by fsworld009 with RPG Maker MV
+by fsworld009 with RPG Maker MV  
 ©2015 KADOKAWA CORPORATION./YOJI OJIMA 
 
 
